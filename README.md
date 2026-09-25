@@ -15,7 +15,7 @@ EndeavourOS, and degrades gracefully when optional details are unavailable.
 
 ## Screenshot
 
-![Terminal Screenshot](tests/swash-2026-09-25_14:18:35.png)
+![Terminal Screenshot](tests/swash-2026-09-25_network-hidden.png)
 
 ## Requirements
 
