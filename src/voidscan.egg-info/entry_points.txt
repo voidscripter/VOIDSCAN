@@ -1,0 +1,2 @@
+[console_scripts]
+voidscan = voidscan.main:main
