@@ -15,7 +15,7 @@ EndeavourOS, and degrades gracefully when optional details are unavailable.
 
 ## Screenshot
 
-> Screenshot placeholder — add a terminal capture here.
+![Terminal Screenshot](terminal-screenshot.png)
 
 ## Requirements
 
